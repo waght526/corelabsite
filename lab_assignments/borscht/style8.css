@@ -1,0 +1,137 @@
+.one {
+  float: right;
+  width: 170px;
+  height: 2200px;
+}
+.heading {
+  float: right;
+  width: 170px;
+  height: 140px;
+}
+.two {
+   position: static;
+  width: 300px;
+  height: 100px;
+}
+
+ .three {
+   position: absolute;
+  top: 700px;
+  right: 15px;
+   }
+
+ .four {
+   position: absolute;
+  top: 530px;
+  right: 5px;
+   }
+
+.five {
+   position: absolute;
+  top: 20px;
+  right: -500px;
+   }
+
+.six {
+   position: absolute;
+  top: 150px;
+  right: -440px;
+   }
+
+.seven {
+   position: absolute;
+  top: -230px;
+  right: -10px;
+   }
+
+.eight {
+   position: absolute;
+  top: 1550px;
+  right: 193px;
+   }
+
+.nine {
+   position: absolute;
+  top: 540px;
+  right: 1000px;
+   }
+
+.ten {
+   position: absolute;
+  top: 10px;
+  right: 134px;
+   }
+
+
+.eleven {
+   position: absolute;
+  top: 490px;
+  right: 300px;
+   }
+
+.twelve {
+   position: absolute;
+  top: 1500px;
+  right: 100px;
+   }
+
+
+.thirteen {
+   position: absolute;
+  top: 150px;
+  right: 1000px;
+   }
+
+.fourteen {
+   position: absolute;
+  top: 184px;
+  right: 193px;
+   }
+
+.fifteen {
+   position: absolute;
+  top: 639px;
+  right: 48px;
+   }
+
+.sixteen {
+   position: absolute;
+  top: 293px;
+  right: 1px;
+   }
+
+.seventeen {
+   position: absolute;
+  top: 150px;
+  right: 293px;
+   }
+
+.eighteen {
+   position: absolute;
+  top: 450px;
+  right: -20px;
+   }
+
+.nineteen {
+   position: absolute;
+  top: 730px;
+  right: 100px;
+   }
+
+.twenty {
+   position: absolute;
+  top: -193px;
+  right: 94px;
+   }
+
+.twentyone {
+   position: absolute;
+  top: 150px;
+  right: 100px;
+   }
+
+.twentytwo {
+   position: absolute;
+  top: 239px;
+  right: 924px;
+   }

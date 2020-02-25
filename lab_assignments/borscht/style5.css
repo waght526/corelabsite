@@ -1,0 +1,26 @@
+p.a {
+  font-style: italic;
+  font-size: 250%;
+}
+
+.one {
+  font-family: Arial, Helvetica, sans-serif;
+  letter-spacing: 10px;
+  font-style: oblique;
+  font-size: 250%;
+}
+.two {
+  font-family: Arial, Helvetica, sans-serif;
+  letter-spacing: 20px;
+  font-style: oblique;
+  font-size: 750%;
+  text-align: center;
+}
+.three {
+  font-family: Arial, Helvetica, sans-serif;
+  line-height: 60%;
+  letter-spacing: 50px;
+  font-style: bold;
+  font-size: 150%;
+  text-align: center;
+}

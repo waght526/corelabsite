@@ -1,0 +1,159 @@
+.one {
+  float: right;
+  border: 1px solid violet;
+  width: 170px;
+ 
+}
+.heading {
+  float: right;
+  border: 1px solid indigo;
+  width: 170px;
+  
+}
+.two {
+   position: static;
+  border: 1px solid blue;
+  width: 300px;
+}
+
+ .three {
+   position: absolute;
+   border: 1px solid green;
+  top: 700px;
+  right: 15px;
+   }
+
+ .four {
+   position: absolute;
+   border: 1px solid yellow;
+  top: 530px;
+  right: 5px;
+   }
+
+.five {
+   position: absolute;
+  border: 1px solid orange;
+  top: 20px;
+  right: -500px;
+   }
+
+.six {
+   position: absolute;
+  border: 1px solid red;
+  top: 150px;
+  right: -440px;
+   }
+
+.seven {
+   position: absolute;
+  border: 1px solid violet;
+  top: -230px;
+  right: -10px;
+   }
+
+.eight {
+   position: absolute;
+  border: 1px solid indigo;
+  top: 1550px;
+  right: 193px;
+   }
+
+.nine {
+   position: absolute;
+  border: 1px solid blue;
+  top: 540px;
+  right: 1000px;
+   }
+
+.ten {
+   position: absolute;
+  border: 1px solid green;
+  top: 10px;
+  right: 134px;
+   }
+
+
+.eleven {
+   position: absolute;
+  border: 1px solid yellow;
+  top: 490px;
+  left: 300px;
+   }
+
+.twelve {
+   position: absolute;
+  border: 1px solid orange;
+  top: 1500px;
+  right: 100px;
+   }
+
+
+.thirteen {
+   position: absolute;
+  border: 1px solid red;
+  top: 10px;
+  right: 505px;
+   }
+
+.fourteen {
+   position: absolute;
+  border: 1px solid violet;
+  top: 784px;
+  right: 33px;
+   }
+
+.fifteen {
+   position: absolute;
+  border: 1px solid indigo;
+  top: 639px;
+  right: 48px;
+   }
+
+.sixteen {
+   position: absolute;
+  border: 1px solid blue;
+  top: 393px;
+  left: 10px;
+   }
+
+.seventeen {
+   position: absolute;
+  border: 1px solid green;
+  top: 150px;
+  right: 293px;
+   }
+
+.eighteen {
+   position: absolute;
+  border: 1px solid yellow;
+  top: 450px;
+  left: -20px;
+   }
+
+.nineteen {
+   position: absolute;
+  border: 1px solid orange;
+  top: 730px;
+  right: 100px;
+   }
+
+.twenty {
+   position: absolute;
+  border: 1px solid red;
+  top: -193px;
+  right: 94px;
+   }
+
+.twentyone {
+   position: absolute;
+  border: 1px solid violet;
+  top: 150px;
+  right: 100px;
+   }
+
+.twentytwo {
+   position: absolute;
+  border: 1px solid indigo;
+  top: 239px;
+  left: 924px;
+   }
