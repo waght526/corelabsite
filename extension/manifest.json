@@ -1,0 +1,21 @@
+{
+
+  "manifest_version": 2,
+  "name": "new school extension",
+  "version": "1.0",
+
+  "description": "turns the new school website into a self-depreciating warning against applications",
+
+  // "background":
+    // {
+        // "scripts": ["scripts/jquery.min.js", "scripts/background.js"]
+    // },
+
+  "content_scripts": [
+    {
+      "matches": ["*://*.newschool.edu/*"],
+      "js": ["scripts/jquery.min.js", "scripts/main.js"],
+      "css" : ["styles/style.css"]
+    }
+  ]
+}
