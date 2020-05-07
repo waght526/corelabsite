@@ -1,6 +1,6 @@
 #wallpaperbox {
  position: absolute;
-  top: 4.2vh;
+  top: 1vh;
   left:10vh;
   width: 1000px;
   height:400px;
@@ -93,7 +93,7 @@ z-index:1;
 
 .menu {
 	position: absolute;
-	top:90vh;
+	top:97vh;
 background-color: black;
 display: flex;
 flex-direction: row;
